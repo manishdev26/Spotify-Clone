@@ -29,6 +29,4 @@ A responsive frontend clone of Spotify, built using only **HTML**, **CSS**, and 
 
 ---
 
-## 📁 Folder Structure
-
 
