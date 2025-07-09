@@ -15,7 +15,7 @@ A responsive frontend clone of Spotify, built using only **HTML**, **CSS**, and 
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view the project](url)
+🔗 [Click here to view the project](https://spotify-clone-black-omega.vercel.app/)
 
 > Hosted using **GitHub Pages**
 
